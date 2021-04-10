@@ -1,0 +1,4 @@
+-ports:
+  containerPort: 8080
+  name: http
+  protocol: TCP
